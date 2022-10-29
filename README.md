@@ -21,8 +21,8 @@ W pierwszej części skryptu pobierane są dane o średnich wynagrodzeniach na p
 komponentu sasowego pozwalającego obsługiwać pliki JSON, załadowana zostaje tabela z informacjami bezpośrednio do biblioteki WORK.
 
 W drugiej części skryptu pobierane są dane o kursie pary walutowej USD/PLN. Api NBP udostępnia tylko kursy walut dla konkretnej daty, w zwiazku z tym skrypt SASowy 
-odpytuje API NBP za każdy konkretny dzień (od początku 2002 roku do dzisiaj) o poziom kursów walut, następnie oblicza średnią relację dla wskazanej pary 
-walutowej dla każdego z badanych lat.
+odpytuje API NBP za każdy konkretny dzień (od początku 2002 roku do dzisiaj) o poziom kursów walut, następnie oblicza średnią wartość dolara wyrażoną w złotówce 
+dla każdego z badanych lat.
 
 ## Wizualizacja
 
