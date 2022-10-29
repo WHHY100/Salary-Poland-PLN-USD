@@ -7,7 +7,7 @@
 
 ## Dane
 
-Dane o historycznych średnich wynagrodzeniach w Polsce zostały pobrane z API banku danych lokalnych.
+Dane o historycznych średnich wynagrodzeniach w Polsce zostały pobrane z API Banku Danych Lokalnych.
 
 URL: https://api.stat.gov.pl/Home/BdlApi
 
