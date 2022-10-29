@@ -150,7 +150,7 @@ from tab_salary_poland_pln a
 left join tab_mean_exchrate b on input(a.year, best12.) = b.year
 ;quit;
 
-/*eksport fin img to locate*/
+/*export fin img to directory*/
 
 /*tab*/
 title color="#00008B" "Salary in Poland (PLN | USD)";
