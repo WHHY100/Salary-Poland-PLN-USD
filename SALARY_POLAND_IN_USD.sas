@@ -1,11 +1,11 @@
 /*===================================================================================*/
-/*									AVG SALARY IN POLAND							 */
-/*https://bdl.stat.gov.pl/api/v1/data/by-unit/000000000000?var-id=64428				 */
+/*AVG SALARY IN POLAND*/
+/*https://bdl.stat.gov.pl/api/v1/data/by-unit/000000000000?var-id=64428	*/
 /*===================================================================================*/
 
 /*===================================================================================*/
-/*										AVG USD/PLN					   				 */
-/*https://api.nbp.pl/api/exchangerates/rates/c/usd/2002-01-02/?format=json			 */
+/*AVG USD/PLN*/
+/*https://api.nbp.pl/api/exchangerates/rates/c/usd/2002-01-02/?format=json*/
 /*===================================================================================*/
 
 /*clean work*/
